@@ -1,5 +1,5 @@
 body {
-  font-family: 'Jua', sans-serif;
+  font-family: 'Cute Font', sans-serif;
   background-color: #ffffff;
   box-sizing: border-box;
   color: #35465d;
@@ -149,7 +149,7 @@ body {
 /* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width: 600px) {
   html {
-    font-size: 10px;
+    font-size: 15px;
   }
     .navbar-brand {
         font-size: 2rem;

@@ -412,7 +412,7 @@ label {
   height: 41px;
   border-radius: 50%;
   box-shadow: 0 0 0 8px #6c757d inset;
-  background-color: #fbd4e6;
+  background-color: #F55125;
   transition: 0.3s;
 }
 
@@ -444,7 +444,7 @@ label {
 
 input:checked + label > .knob {
   box-shadow: 0 0 0 8px #6c757d inset;
-  background-color: #e2ecf4;
+  background-color: #F55125;
   transform: translateX(49px) rotate(-140deg);
 }
 

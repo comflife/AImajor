@@ -8,8 +8,8 @@ body {
     padding: 15% 3%;
     margin: 0 auto;
     border-radius: 10px;
-    border: solid 1.5px #56689b;
-    background-color: #a5cbf3;
+    border: dashed 20px #9b6956;
+    background-color: #f3c5a5;
 }
 .file-upload-btn {
   width: 100%;
